@@ -1,0 +1,16 @@
+student 1
+Name   :Dhana
+class  : B.tech
+Branch :EEE
+roll no:202
+section:1
+grade  :B
+
+student 2
+Name   :Rama
+class  : B.tech
+Branch :CSE
+roll no:209
+section:3
+grade  :A
+

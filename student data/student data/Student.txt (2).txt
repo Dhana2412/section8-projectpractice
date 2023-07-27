@@ -1,0 +1,12 @@
+Dhana, Class c
+Rama, Class B
+ Smith, Class C
+Sita, Class A
+ Leela, Class B
+Sophia , Class C
+David , Class A
+Raju, Class B
+Rani, Class A
+Suma, Class A
+Latha, Class B
+

@@ -1,0 +1,8 @@
+C:\Users\dhana\OneDrive\Documents\section 8 projecct\student data\student data\bin\Debug\student data.exe.config
+C:\Users\dhana\OneDrive\Documents\section 8 projecct\student data\student data\bin\Debug\student data.exe
+C:\Users\dhana\OneDrive\Documents\section 8 projecct\student data\student data\bin\Debug\student data.pdb
+C:\Users\dhana\OneDrive\Documents\section 8 projecct\student data\student data\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\dhana\OneDrive\Documents\section 8 projecct\student data\student data\obj\Debug\Student.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhana\OneDrive\Documents\section 8 projecct\student data\student data\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\dhana\OneDrive\Documents\section 8 projecct\student data\student data\obj\Debug\student data.exe
+C:\Users\dhana\OneDrive\Documents\section 8 projecct\student data\student data\obj\Debug\student data.pdb
